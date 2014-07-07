@@ -4,4 +4,6 @@
 
 (Thanks to GRR Martin for that one.)
 
+--------
 
+I'll gather my project ideas here, one idea per file (or possibly, for larger ideas, per directory). I'll try to keep them in somewhat structured directories and update them according to everything I can think of. I keep them public as a reference for myself, but if any of you can draw inspiration from this stuff, great! Should you implement something related to my ideas here, don't hesitate to tell me, I'm always interested!
