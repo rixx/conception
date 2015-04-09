@@ -15,8 +15,9 @@ Let slim header stay on top. Font needs to be dark, no bright gray font on white
 
 ## Contentttt
 
-    [ ] write link list with categories
-    [ ] write at least three short book reviews
-    [ ] write at least two articles
-
+* pgp intro
+* markov chains
+* that other text thingy!
+* git push-to-deploy
+* python Ellipsis
 
